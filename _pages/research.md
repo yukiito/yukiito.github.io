@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
+layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 

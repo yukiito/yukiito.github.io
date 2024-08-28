@@ -21,7 +21,7 @@ repository               : "yukiito/yukiito.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.JPG"
+  avatar           : "/files/profile.JPG"
   name             : "Yuki Ito"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate at University of California, Berkeley"
