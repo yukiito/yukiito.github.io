@@ -23,6 +23,9 @@ with [Konan Hara](https://harakonan.github.io/)
 ### Competing DAOs
 with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
 
+### The Role of Proportional Offers in Sequential Bargaining: Evidence from eBay
+with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
+
 ## Publications (Economics)
 
 ### [Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755)
