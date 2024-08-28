@@ -21,14 +21,14 @@ repository               : "yukiito/yukiito.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YukiIto_photo.JPG"
+  avatar           : "profile.JPG"
   name             : "Yuki Ito"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate at University of California, Berkeley"
   location         : "Berkeley, California"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuki_ito@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
