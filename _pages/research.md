@@ -18,10 +18,10 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 
 ## Work in Progress
 
-### [Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks]
+### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
 with [Konan Hara](https://harakonan.github.io/)
 
-### [Competing DAOs]
+### Competing DAOs
 with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
 
 ## Publications (Economics)
@@ -48,10 +48,10 @@ with [Christopher Whaley](https://vivo.brown.edu/display/cmwhaley), [Jonathan Ko
 with [Konan Hara](https://harakonan.github.io/), Hajime Sato, and Jun Tomio
 *The Tohoku Journal of Experimental Medicine*, 2021
 
-### [Claims-Based Algorithms for Common Chronic Conditions Were Efficiently Constructed Using Machine Learning Methods.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254394)
+### [Claims-Based Algorithms for Common Chronic Conditions Were Efficiently Constructed Using Machine Learning Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254394)
 with [Konan Hara](https://harakonan.github.io/), Yasuki Kobayashi, Jun Tomio, Thomas Svensson, Ryo Ikesu, Ung-il Chung, and Akiko Kishi Svensson.
 *PLOS ONE*, 2021
 
-### [Can Income-Based Co-payment Rates Improve Disparity? The Case of the Choice between Brand-Name and Generic Drugs.](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4598-8)
+### [Can Income-Based Co-payment Rates Improve Disparity? The Case of the Choice between Brand-Name and Generic Drugs](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4598-8)
 with [Konan Hara](https://harakonan.github.io/), Byung-kwang Yoo, Jun Tomio, and Yasuki Kobayashi.
 *BMC Health Services Research*, 2019

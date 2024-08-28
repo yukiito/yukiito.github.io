@@ -21,10 +21,10 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 
 ## Work in Progress
 
-### [Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks]
+### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
 with [Konan Hara](https://harakonan.github.io/)
 
-### [Competing DAOs]
+### Competing DAOs
 with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
 
 ## Publications (Economics)
