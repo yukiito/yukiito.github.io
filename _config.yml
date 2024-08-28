@@ -12,7 +12,7 @@ title                    : "Yuki Ito"
 title_separator          : "-"
 name                     : &name "Yuki Ito"
 description              : &description "Economics PhD Candidate at University of California, Berkeley"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://yukiito.github.io"
+url                      : "https://yukiito.github.io"https://academicpages.github.io # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yukiito/yukiito.github.io"
 
