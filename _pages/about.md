@@ -11,6 +11,7 @@ redirect_from:
 I am a PhD Candidate in the Economics Department at University of California, Berkeley. 
 <br clear="right"/>
 <br> My research interests lie in industrial organization, with a focus on auctions, healthcare markets, and financial markets.
+<br> I am on the 2024-25 job market. 
 
 ## Working Papers
 
@@ -18,6 +19,11 @@ I am a PhD Candidate in the Economics Department at University of California, Be
 
 ### [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)
 with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh.com/)
+<details>
+  <summary>Abstract</summary>
+  This paper studies the identification and estimation of dynamic games when the underlying information structure is unknown to the researcher. To tractably characterize the set of Markov perfect equilibrium predictions while maintaining weak assumptions on players' information, we introduce Markov correlated equilibrium, a dynamic analog of Bayes correlated equilibrium. The set of Markov correlated equilibrium predictions coincides with the set of Markov perfect equilibrium predictions that can arise when the players can observe more signals than assumed by the analyst. Using Markov correlated equilibrium as the solution concept, we propose tractable computational strategies for informationally robust estimation, inference, and counterfactual analysis that deal with the non-convexities arising in dynamic environments. We use our method to analyze the dynamic competition between Starbucks and Dunkin' in the US and the role of informational assumptions.
+</details>
+
 
 ## Work in Progress
 
