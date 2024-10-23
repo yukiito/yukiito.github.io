@@ -15,17 +15,6 @@ redirect_from:
 ### [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)
 with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh.com/)
 
-## Work in Progress
-
-### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
-with [Konan Hara](https://harakonan.github.io/)
-
-### Competing DAOs
-with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
-
-### The Role of Proportional Offers in Sequential Bargaining: Evidence from eBay
-with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
-
 ## Publications (Economics)
 
 ### [Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755)
@@ -40,6 +29,17 @@ with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn 
 ### [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://www.sciencedirect.com/science/article/pii/S0167268119304147?via%3Dihub)
 with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi
 *Journal of Economic Behavior & Organization*, 2020.
+
+## Work in Progress
+
+### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
+with [Konan Hara](https://harakonan.github.io/)
+
+### Competing DAOs
+with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
+
+### The Role of Proportional Offers in Sequential Bargaining: Evidence from eBay
+with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
 
 ## Publications (Health Policy and Public Health)
 ### [The Health Plan Environment In California Contributed To Differential Use Of Telehealth During The COVID-19 Pandemic](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00464)
