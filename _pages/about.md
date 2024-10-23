@@ -25,27 +25,6 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 </details>
 
 
-## Work in Progress
-
-### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
-with [Konan Hara](https://harakonan.github.io/)
-<details>
-  <summary>Abstract</summary>
-  We study the role of racial concordance between primary care physicians and specialists in physician referral network formation and its consequences on racial health disparity. Using a 20% random sample of Medicare beneficiaries in the United States, we find that primary care physicians refer patients to the same race specialists more than otherwise, especially when the patients are also the same race. We propose a structural framework to separately identify the racial concordance effect net of health outcome benefits on referral decisions and the racial concordance effect on health outcomes.
-</details>
-
-
-
-### Competing DAOs
-with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
-<details>
-  <summary>Abstract</summary>
-  A Decentralized Autonomous Organization (DAO) is an entity with no central control and ownership. A group of users discuss, propose, and implement a new platform design with smart contracts on blockchain, taking control away from a centralized platformer. We develop a model of platform competition with the DAO governance structure and analyze how strategic complementarity affects the development of DAOs. Compared to traditional competition between centralized platformers, a DAO introduces an additional layer of competition played by users. Since users are multi-homing, they propose a new platform design by internalizing interactions between platforms and create additional values, which is reflected by the price of a governance token. A platformer can extract this value by issuing a token but must relinquish control of her platform, losing potential fee revenue. Analyzing this tradeoff, we show that centralized platformers tend to be DAOs when strategic complementarity is strong, while an intermediate degree of strategic complementarity leads to the coexistence of a DAO and a traditional centralized platform.
-</details>
-
-### The Role of Proportional Offers in Sequential Bargaining: Evidence from eBay
-with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
-
 
 ## Publications (Economics)
 
@@ -74,3 +53,26 @@ with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi,
   <summary>Abstract</summary>
 Consumers’ tendency to repurchase products is called inertia. This study investigates inertia in brand-name and generic drug choices, which is manifested by the slow and limited adoption of generic drugs despite their lower prices. We use claims data from Japan and focus on the generic entry of a widely prescribed lipid-lowering drug, Pitavastatin. Observing the periods before and after the generic entry gives us a unique opportunity to identify the effect of inertia. We construct a choice model that incorporates price, heterogeneous brand preferences, and inertia to quantify each component's magnitude. We find that both inertia and heterogeneity in brand preferences have substantial effects. Counterfactual simulations suggest that a nudging policy that removes inertia from previous brand-name users, such as by alerting the patients to switch to cheaper generic drugs, may have substantial effects and enable patients to choose optimally.
 </details>
+
+
+
+## Work in Progress
+
+### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
+with [Konan Hara](https://harakonan.github.io/)
+<details>
+  <summary>Abstract</summary>
+  We study the role of racial concordance between primary care physicians and specialists in physician referral network formation and its consequences on racial health disparity. Using a 20% random sample of Medicare beneficiaries in the United States, we find that primary care physicians refer patients to the same race specialists more than otherwise, especially when the patients are also the same race. We propose a structural framework to separately identify the racial concordance effect net of health outcome benefits on referral decisions and the racial concordance effect on health outcomes.
+</details>
+
+
+
+### Competing DAOs
+with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
+<details>
+  <summary>Abstract</summary>
+  A Decentralized Autonomous Organization (DAO) is an entity with no central control and ownership. A group of users discuss, propose, and implement a new platform design with smart contracts on blockchain, taking control away from a centralized platformer. We develop a model of platform competition with the DAO governance structure and analyze how strategic complementarity affects the development of DAOs. Compared to traditional competition between centralized platformers, a DAO introduces an additional layer of competition played by users. Since users are multi-homing, they propose a new platform design by internalizing interactions between platforms and create additional values, which is reflected by the price of a governance token. A platformer can extract this value by issuing a token but must relinquish control of her platform, losing potential fee revenue. Analyzing this tradeoff, we show that centralized platformers tend to be DAOs when strategic complementarity is strong, while an intermediate degree of strategic complementarity leads to the coexistence of a DAO and a traditional centralized platform.
+</details>
+
+### The Role of Proportional Offers in Sequential Bargaining: Evidence from eBay
+with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
