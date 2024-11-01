@@ -63,6 +63,9 @@ Consumers’ tendency to repurchase products is called inertia. This study inves
 
 ## Work in Progress
 
+### On Auctions with Unobserved Heterogeneity and Weak Assumptions on Information
+with [Kei Kawai](http://keikawai.com/)
+
 ### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
 with [Konan Hara](https://harakonan.github.io/)
 <details>
