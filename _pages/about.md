@@ -15,7 +15,12 @@ I am a PhD Candidate in the Economics Department at University of California, Be
 
 ## Working Papers
 
-### Entry Deterrence in Procurement Auctions (Job Market Paper)
+### Entry Deterrence in Procurement Auctions (Job Market Paper): draft coming soon
+<details>
+  <summary>Abstract</summary>
+ Firms have incentives to alter competitors' beliefs about their entry to deter others from entering the market. They may achieve this objective by disclosing their intent to enter. We study procurement auctions conducted by Montana Department of Transportation, where a designated online Q&A forum serves as an entry disclosure device. We specify and estimate a model of procurement auctions with costly entry, in which firms have the option to disclose entry. We find that disclosure deters entry from others, and disclosure is beneficial for a firm if they can disclose at an early period. Overall, the availability of disclosure device decreases the auctioneer's payment by 6.3%, while increasing the winner's construction costs by 4.5% and decreasing the total entry costs by 11.1%.   
+</details>
+
 
 ### [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)
 with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh.com/)
