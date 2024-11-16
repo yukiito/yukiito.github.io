@@ -15,7 +15,7 @@ I am a PhD Candidate in the Economics Department at University of California, Be
 
 ## Working Papers
 
-### Entry Deterrence in Procurement Auctions (Job Market Paper): draft coming soon
+### [Entry Deterrence in Procurement Auctions (Job Market Paper)](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
 <details>
   <summary>Abstract</summary>
 If a firm can make a credible announcement of its intent to enter a market, it may be able to deter rival firms from entering. We study procurement auctions conducted by Montana Department of Transportation, where a designated online Q&A forum serves as an entry disclosure device. We specify and estimate a model of procurement auctions with costly entry, in which firms have the option to disclose entry during a period before the bids are submitted. We find that disclosure deters entry from other firms, but leads remaining entrants to bid more aggressively. Overall, disclosure is beneficial for a firm if they can disclose at an early period. The availability of disclosure device decreases the auctioneer's payment by 6.3%, while increasing the winner's construction costs by 4.5% and decreasing the total entry costs by 11.1%.  
