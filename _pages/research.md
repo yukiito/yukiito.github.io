@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-### Entry Deterrence in Procurement Auctions
+### [Entry Deterrence in Procurement Auctions (Job Market Paper)](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
 
 ### [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)
 with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh.com/)
@@ -31,6 +31,9 @@ with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi
 *Journal of Economic Behavior & Organization*, 2020.
 
 ## Work in Progress
+
+### On Auctions with Unobserved Heterogeneity and Weak Assumptions on Information
+with [Kei Kawai](http://keikawai.com/)
 
 ### Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks
 with [Konan Hara](https://harakonan.github.io/)
