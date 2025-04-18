@@ -11,6 +11,7 @@ redirect_from:
 I am a PhD Candidate in the Economics Department at University of California, Berkeley. 
 <br clear="right"/>
 <br> My research interests lie in industrial organization, with a focus on auctions, healthcare markets, and financial markets.
+<br>
 <br> I will be joining the Department of Economics at Indiana University, Bloomington in Fall 2025.
 
 ## Working Papers
