@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics Department at Indiana University, Bloomington. 
+I am an Assistant Professor of Economics at Indiana University, Bloomington. 
 <br clear="right"/>
 <br> My research interests lie in industrial organization, with a focus on auctions, healthcare markets, and financial markets.
 <br>
