@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the Economics Department at University of California, Berkeley. 
+I am an Assistant Professor of Economics Department at Indiana University, Bloomington. 
 <br clear="right"/>
 <br> My research interests lie in industrial organization, with a focus on auctions, healthcare markets, and financial markets.
 <br>
-<br> I will be joining the Department of Economics at Indiana University, Bloomington as an Assistant Professor in Fall 2025.
+<br> I received my PhD in Economics from University of California, Berkeley in 2025. 
 
 ## Working Papers
 
