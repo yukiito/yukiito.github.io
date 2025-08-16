@@ -45,7 +45,7 @@ Blockchain-based decentralized exchanges have adopted automated market makers(AM
 
 ### [Employer risk-adjustment transitions with inertial consumers: Evidence from CalPERS](https://onlinelibrary.wiley.com/doi/full/10.1111/jori.12417)
 with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn M. Hua](https://www.lynnmhua.com/),
-*Journal of Risk and Insurance*, 90:1, 93--121, 2023
+*Journal of Risk and Insurance*, 90:1, 93--121, March 2023
  <details>
   <summary>Abstract</summary>
 Risk-adjustment policies, which transfer money from insurers with healthy consumers to those with sick consumers, are an important tool to contend with adverse selection in health insurance markets. While the steady-state properties of risk-adjustment have been studied extensively, there is less evidence on the transition phase of policy implementation. We study the introduction and removal of risk-adjustment at California Public Employees' Retirement System and show that these changes meaningfully impact premiums via plan differences in enrollee health status. Despite these premium differences, there is limited consumer resorting due to consumer inertia, though new active enrollees respond more fluidly. We show that, with inertial consumers, risk-adjustment changes have substantial distributional consequences, leading to worse outcomes for sicker consumers when removed and vice-versa when implemented. We estimate a model of plan choice with premium sensitivity, brand preferences, and inertia and use these estimates to study the interaction between risk-adjustment policies and the strength of inertia.
@@ -54,7 +54,7 @@ Risk-adjustment policies, which transfer money from insurers with healthy consum
 
 ### [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://www.sciencedirect.com/science/article/pii/S0167268119304147?via%3Dihub)
 with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi,<br>
-*Journal of Economic Behavior & Organization*, 172, 364--379, 2020.
+*Journal of Economic Behavior & Organization*, 172, 364--379, April 2020.
  <details>
   <summary>Abstract</summary>
 Consumers’ tendency to repurchase products is called inertia. This study investigates inertia in brand-name and generic drug choices, which is manifested by the slow and limited adoption of generic drugs despite their lower prices. We use claims data from Japan and focus on the generic entry of a widely prescribed lipid-lowering drug, Pitavastatin. Observing the periods before and after the generic entry gives us a unique opportunity to identify the effect of inertia. We construct a choice model that incorporates price, heterogeneous brand preferences, and inertia to quantify each component's magnitude. We find that both inertia and heterogeneity in brand preferences have substantial effects. Counterfactual simulations suggest that a nudging policy that removes inertia from previous brand-name users, such as by alerting the patients to switch to cheaper generic drugs, may have substantial effects and enable patients to choose optimally.

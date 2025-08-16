@@ -18,17 +18,17 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 ## Publications (Economics)
 
 ### [Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755)
-with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)
- *Journal of Political Economy Microeconomics*, forthcoming
+with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)<br>
+ *Journal of Political Economy Microeconomics*, 3:3, 611--648, August 2025
 
 ### [Employer risk-adjustment transitions with inertial consumers: Evidence from CalPERS](https://onlinelibrary.wiley.com/doi/full/10.1111/jori.12417)
-with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn M. Hua](https://www.lynnmhua.com/)
-*Journal of Risk and Insurance*, 2023
+with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn M. Hua](https://www.lynnmhua.com/)<br>
+*Journal of Risk and Insurance*, 90:1, 93--121, March 2023
 
 
 ### [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://www.sciencedirect.com/science/article/pii/S0167268119304147?via%3Dihub)
-with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi
-*Journal of Economic Behavior & Organization*, 2020.
+with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi<br>
+*Journal of Economic Behavior & Organization*, 172, 364--379, April 2020.
 
 ## Work in Progress
 
