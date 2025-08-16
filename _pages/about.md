@@ -16,7 +16,7 @@ I am an Assistant Professor of Economics at Indiana University, Bloomington.
 
 ## Working Papers
 
-### [Entry Deterrence in Procurement Auctions (Job Market Paper)](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
+### [Entry Deterrence in Procurement Auctions](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
 <details>
   <summary>Abstract</summary>
 If a firm can make a credible announcement of its intent to enter a market, it may be able to deter rival firms from entering. We study procurement auctions conducted by Montana Department of Transportation, where a designated online Q&A forum serves as an entry disclosure device. We specify and estimate a model of procurement auctions with costly entry, in which firms have the option to disclose entry during a period before the bids are submitted. We find that disclosure deters entry from other firms, but leads remaining entrants to bid more aggressively. Overall, disclosure is beneficial for a firm if they can disclose at an early period. The availability of disclosure device decreases the auctioneer's payment by 6.3%, while increasing the winner's construction costs by 4.5% and decreasing the total entry costs by 11.1%.  
@@ -35,7 +35,7 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 ## Publications (Economics)
 
 ### [Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755)
-with [Jun Aoyagi](https://jun-aoyagi.webnode.page/),
+with [Jun Aoyagi](https://jun-aoyagi.webnode.page/)<br>
  *Journal of Political Economy Microeconomics*, 3:3, 611--648, August 2025
  <details>
   <summary>Abstract</summary>
@@ -44,7 +44,7 @@ Blockchain-based decentralized exchanges have adopted automated market makers(AM
 
 
 ### [Employer risk-adjustment transitions with inertial consumers: Evidence from CalPERS](https://onlinelibrary.wiley.com/doi/full/10.1111/jori.12417)
-with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn M. Hua](https://www.lynnmhua.com/),
+with [Benjamin Handel](https://www.benjaminhandel.com/), Nianyi Hong, and [Lynn M. Hua](https://www.lynnmhua.com/)<br>
 *Journal of Risk and Insurance*, 90:1, 93--121, March 2023
  <details>
   <summary>Abstract</summary>
@@ -53,7 +53,7 @@ Risk-adjustment policies, which transfer money from insurers with healthy consum
 
 
 ### [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://www.sciencedirect.com/science/article/pii/S0167268119304147?via%3Dihub)
-with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi,<br>
+with [Konan Hara](https://harakonan.github.io/) and Yasuki Kobayashi<br>
 *Journal of Economic Behavior & Organization*, 172, 364--379, April 2020.
  <details>
   <summary>Abstract</summary>
