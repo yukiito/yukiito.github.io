@@ -36,7 +36,7 @@ with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh
 
 ### [Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755)
 with [Jun Aoyagi](https://jun-aoyagi.webnode.page/),
- *Journal of Political Economy Microeconomics*, forthcoming
+ *Journal of Political Economy Microeconomics*, 2025
  <details>
   <summary>Abstract</summary>
 Blockchain-based decentralized exchanges have adopted automated market makers(AMM)—algorithms that aggregate liquidity and automatically set asset prices. Thispaper analyzes coexisting market structures, a limit-order book (LOB) and an AMM,to investigate their interactions in terms of liquidity. Based on their fundamental designdifferences, we show that fluctuations in liquidity in the AMM stimulate disproportion-ate reactions from informed and noise traders, leading to a positive spillover effect on liquidity in the LOB market. Furthermore, unlike models that primarily focus on theAMM, the coexisting environment leads to a hump-shaped reaction of liquidity supply in the AMM to asset volatility.
