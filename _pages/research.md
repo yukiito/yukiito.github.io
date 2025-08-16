@@ -46,17 +46,17 @@ with [Kiyotaka Yageta](https://sites.google.com/view/kiyotaka-yageta/)
 
 ## Publications (Health Policy and Public Health)
 ### [The Health Plan Environment In California Contributed To Differential Use Of Telehealth During The COVID-19 Pandemic](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00464)
-with [Christopher Whaley](https://vivo.brown.edu/display/cmwhaley), [Jonathan Kolstad](https://www.jkolstad.org/), David Cowling, and [Benjamin Handel](https://www.benjaminhandel.com/)
-*Health Affairs*, 2022
+with [Christopher Whaley](https://vivo.brown.edu/display/cmwhaley), [Jonathan Kolstad](https://www.jkolstad.org/), David Cowling, and [Benjamin Handel](https://www.benjaminhandel.com/)<br>
+*Health Affairs*, 41:12, December 2022
 
 ### [Knowledge, Experience, and Perceptions of Generic Drugs among Middle-Aged Adults and Their Willingness-to-Pay: A Nationwide Online Survey in Japan.](https://www.jstage.jst.go.jp/article/tjem/255/1/255_9/_article)
-with [Konan Hara](https://harakonan.github.io/), Hajime Sato, and Jun Tomio
-*The Tohoku Journal of Experimental Medicine*, 2021
+with [Konan Hara](https://harakonan.github.io/), Hajime Sato, and Jun Tomio<br>
+*The Tohoku Journal of Experimental Medicine*, 255:1, 9--17, 2021
 
 ### [Claims-Based Algorithms for Common Chronic Conditions Were Efficiently Constructed Using Machine Learning Methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254394)
-with [Konan Hara](https://harakonan.github.io/), Yasuki Kobayashi, Jun Tomio, Thomas Svensson, Ryo Ikesu, Ung-il Chung, and Akiko Kishi Svensson.
-*PLOS ONE*, 2021
+with [Konan Hara](https://harakonan.github.io/), Yasuki Kobayashi, Jun Tomio, Thomas Svensson, Ryo Ikesu, Ung-il Chung, and Akiko Kishi Svensson<br>
+*PLOS ONE*, 16:9, 2021
 
 ### [Can Income-Based Co-payment Rates Improve Disparity? The Case of the Choice between Brand-Name and Generic Drugs](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4598-8)
-with [Konan Hara](https://harakonan.github.io/), Byung-kwang Yoo, Jun Tomio, and Yasuki Kobayashi.
-*BMC Health Services Research*, 2019
+with [Konan Hara](https://harakonan.github.io/), Byung-kwang Yoo, Jun Tomio, and Yasuki Kobayashi.<br>
+*BMC Health Services Research*, 19, 2019
