@@ -12,4 +12,4 @@ redirect_from:
 Here is my [CV](https://yukiito.github.io/files/ItoYuki_CV_092325.pdf).
 
 
-<embed src="{{ site.baseurl }}/files/ItoYuki_CV.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/ItoYuki_CV_092325.pdf" width="600" height="700" type='application/pdf'> 
