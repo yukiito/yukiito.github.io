@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-### [Entry Deterrence in Procurement Auctions (Job Market Paper)](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
+### [Entry Deterrence in Procurement Auctions](https://yukiito.github.io/files/Ito_EntryDeterrence.pdf)
 
 ### [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)
 with [Konan Hara](https://harakonan.github.io/) and [Paul Koh](https://www.pskoh.com/)

@@ -13,6 +13,8 @@ I am an Assistant Professor of Economics at Indiana University, Bloomington.
 <br> My research interests lie in industrial organization, with a focus on auctions, healthcare markets, and financial markets.
 <br>
 <br> I received my PhD in Economics from University of California, Berkeley in 2025. 
+<br>
+<br> Before Berkeley, I obtained BA and PhD in Medicine from the University of Tokyo. I also hold a medical license in Japan.
 
 ## Working Papers
 
