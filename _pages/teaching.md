@@ -7,6 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
+## Indiana University
+
+### Econ E401/M518: MACHINE LEARNING FOR ECONOMIC DATA/BIG DATA IN ECONOMICS (Fall 2025, Spring 2026)
+
+### ECON E685: ADVANCED INDUSTRIAL ORGANIZATION (Spring 2026)
 
 ## University of California, Berkeley 
 
